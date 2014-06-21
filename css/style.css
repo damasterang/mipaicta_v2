@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*******/
+		 /*header*/
+					/*******/
+#header{
+	width: 100px;
+	height: 100px;
+
+	margin: 10px auto;
+
+	border-top: 1px solid #01a44e;
+	border-bottom: 1px solid #01a44e;
+	border-right: 1px solid #01a44e;
+	border-radius: 50px;
+
+	/*-webkit-transition: width 2s ease-in 0s;
+	   -moz-transition: width 2s ease-in 0s;
+	    -ms-transition: width 2s ease-in 0s;
+	     -o-transition: width 2s ease-in 0s;
+	        transition: width 2s ease-in 0s;*/
+
+	/*background-color: red;*/
+}
+	#upLogo{
+		width: 80px;
+
+		padding: 10px;
+		/*margin-top: 10px;
+		margin-left: 10px;*/
+
+		border: 1px solid #01a44e;
+		border-radius: 50px;
+	}
